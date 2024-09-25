@@ -13,7 +13,6 @@ I'm a **Freelancer Developer** and a **Passionate Programmer** with a strong int
 ## 🌍 Let's Connect
 - 💬 Feel free to reach out if you're interested in collaborating or just want to chat about tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](your-twitter-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanuthb/)
 
 Thank you for visiting my profile! 🚀
